@@ -69,7 +69,7 @@ if __name__ == "__main__":
     gui.configure(background="lavender")
 
     # set the title of GUI window
-    gui.title("CALCULATOR")
+    gui.title("GUI-Calculator")
 
     # set the configuration of GUI window
     gui.geometry("270x150")
