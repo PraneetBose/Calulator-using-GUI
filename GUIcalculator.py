@@ -3,8 +3,6 @@
 
 # import everything from tkinter module
 from tkinter import *
-
-# globally declare the expression variable
 expression = ""
 
 
